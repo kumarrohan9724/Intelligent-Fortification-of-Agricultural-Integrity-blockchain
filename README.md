@@ -33,15 +33,14 @@ Contributions to the project are welcome! Please fork the repository, make your 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
-
+This project is licensed under the MIT License.
 ## Support
 
-For any inquiries or assistance, please contact [Your Contact Information].
+For any inquiries or assistance, please contact @rohankumar9724.
 
 ## Acknowledgements
 
-We would like to thank [Acknowledged Individuals/Organizations] for their contributions and support to the development of IFAI.
+We would like to thank SRMIST for their contributions and support to the development of IFAI.
 
 ## Disclaimer
 
@@ -49,5 +48,5 @@ This project is provided as-is without any warranties or guarantees. Users are e
 
 ## About
 
-IFAI is developed by [Your Organization/Name], aiming to revolutionize agricultural data integrity through blockchain technology and intelligent algorithms.
+IFAI is developed by SRMIST STUDENTS, aiming to revolutionize agricultural data integrity through blockchain technology and intelligent algorithms.
 
